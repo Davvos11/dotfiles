@@ -1,0 +1,14 @@
+{
+  "id": "whatsapp-nice",
+  "name": "WhatsApp-nice",
+  "version": "1.0.26",
+  "description": "WhatsApp Nice",
+  "main": "index.js",
+  "author": "Stefan Malzner <stefan@adlk.io>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://web.whatsapp.com",
+    "hasNotificationSound": true,
+    "disablewebsecurity": true
+  }
+}
